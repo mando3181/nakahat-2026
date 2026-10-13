@@ -1,0 +1,8 @@
+data.json
+audit.json
+summary_sheets.json
+*.xlsx
+*.zip
+*.pdf
+قوائم دخل الفروع/
+__pycache__/
